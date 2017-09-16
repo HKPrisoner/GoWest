@@ -1,1 +1,5 @@
 # GoWest
+
+```
+node app.js
+```
